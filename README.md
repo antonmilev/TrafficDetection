@@ -176,4 +176,17 @@ I obtained these results with running the test several times for each detection 
   <img src="performance.png" width="500px"/>
 </p>
 
+## Final Result
+
+Here is the video output for detection without tracking:
+
+https://github.com/antonmilev/TrafficDetection/assets/46096854/8c86490d-9ebd-4326-bf6b-a9bbbc15d955
+
+
+
+
+
+
+
+
 
