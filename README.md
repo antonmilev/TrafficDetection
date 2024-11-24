@@ -180,8 +180,7 @@ I obtained these results with running the test several times for each detection 
 
 Here is the video output for detection without tracking:
 
-https://github.com/antonmilev/TrafficDetection/raw/refs/heads/main/vid.mp4
-
+https://github.com/antonmilev/TrafficDetection/assets/46096854/8c86490d-9ebd-4326-bf6b-a9bbbc15d955
 
 
 
